@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    h1, h2, p {
+        text-align: center;
+    }
+    
+}
+input{
+    width: 75%;
+    max-width: 200px;
+    background-color: grey;
+}
+
+
+button{
+    background-color:chartreuse;
+    cursor: pointer;
+}
+
